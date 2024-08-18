@@ -1,0 +1,6 @@
+[package]
+name = "rust-multithreaded-tcp-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
