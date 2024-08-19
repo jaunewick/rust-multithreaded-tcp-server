@@ -1,3 +1,3 @@
 # rust-multithreaded-tcp-server
 
-🚧🏗️👷 In the process of developing...
+A low-level implementation of an HTTP server and thread pool from scratch in Rust, featuring graceful shutdown and cleanup.
